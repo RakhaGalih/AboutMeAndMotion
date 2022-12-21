@@ -1,9 +1,11 @@
 # About
 
-A Motion Lab Flutter Project
+## A Motion Lab Flutter Project
 
 Rakha Galih Nugraha Sukma
+
 1302223118
+
 SE-46-02
 
 ### About Motion
